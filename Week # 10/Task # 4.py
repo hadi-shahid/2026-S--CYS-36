@@ -1,0 +1,5 @@
+print(len("hadiShahid"))
+print(max(2,4))
+print(min(-2,4))
+print(sum([1,4]))
+print(type("1"))
