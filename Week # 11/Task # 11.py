@@ -1,0 +1,3 @@
+s1 = {1,2,3}
+s2 = {4,5,6}
+print(set.intersection(s1,s2))
