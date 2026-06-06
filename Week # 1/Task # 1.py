@@ -1,0 +1,5 @@
+print("UET Lahore")
+print("UET Lahore",end="-")
+print("Computer Engineering Department")
+print("UET Lahore","Computer Engineering Department")
+print("UET Lahore","Computer Engineering Department",sep="--")
